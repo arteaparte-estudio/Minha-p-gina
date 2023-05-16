@@ -43,7 +43,17 @@ nav > a {
 }
 
 main {
+    display: block;
 
+    background-color: white;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+
+}
+
+main > article {
+    
 }
 
 article {
